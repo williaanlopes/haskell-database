@@ -1,0 +1,1 @@
+[Aluno {nome = "Teste 2", cpf = "456", nota = 9.8},Aluno {nome = "Teste 3", cpf = "789", nota = 10.0},Aluno {nome = "Teste 4", cpf = "321", nota = 4.2},Aluno {nome = "Teste 1", cpf = "76219783093", nota = 6.4},Aluno {nome = "Teste 7", cpf = "829.488.660-22", nota = 7.4}]
